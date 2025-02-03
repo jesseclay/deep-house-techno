@@ -10,6 +10,8 @@ The original track was stem split using Logic's algorithm and then edited to bee
 
 The original AI-generated song is represented onchain with the royal protocol here: https://royal.io/sonic/en/tracks/c29uaWMudHJhY2s6MDE5MjBiNTAtOWQ0Zi03ZjY0LWI4MzgtYTk4YzViOWUyYjY0.
 
+If you are new to github, click the green < > code button above and download the zip file to access everything!
+
 ## 🎧 Tracks and Assets
 
 This repository contains all the original stems, MIDI files, and any other assets you might need to remix, produce, or use the song in your projects.
