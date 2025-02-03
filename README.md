@@ -1,6 +1,5 @@
 # Deep House Techno
 
-Deep House Techno - Open Source Song
 Welcome to the Deep House Techno repository! This song is released as open-source, meaning you are free to use, remix, and share it under the terms provided in this repo. We aim to foster collaboration and creativity within the music and tech communities, empowering you to create and share without limits. You can monetize or distribute any version of the song, that was originated with Suno's V4 music model.
 
 ## 🎶 About the Song
