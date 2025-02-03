@@ -26,9 +26,9 @@ We welcome contributions! If you have a remix, improvement, or suggestion, feel 
 
 ## 🔧 Setup Instructions
 
-### Cloning and Downloading (Including Large Files)
+### Direct Download:[HERE](https://github.com/0x3lau/deep-house-techno/archive/refs/heads/main.zip)
 
-**If you are new to github you can DOWNLOAD** [HERE](https://github.com/0x3lau/deep-house-techno/archive/refs/heads/main.zip) 
+### Cloning and Downloading with Git (Including Large Files) 
 
 **We use Git LFS (Git Large File Storage) for Logic, audio, and other large files.** If you want to download or contribute to these files (rather than just see pointer files), please follow these steps:
 
