@@ -4,11 +4,11 @@ Welcome to the Deep House Techno repository! This song is released as open-sourc
 
 ## 🎶 About the Song
 
-This track was prompted with "Deep House Techno" and the provenance of the original AI-generated song is represented onchain with the royal protocol here: https://royal.io/sonic/en/tracks/c29uaWMudHJhY2s6MDE5MjBiNTAtOWQ0Zi03ZjY0LWI4MzgtYTk4YzViOWUyYjY0.
+This track was prompted with "Deep House Techno" and edited by me; the provenance of the final version is here: https://royal.io/claim/3651.
 
-The track was stem split using Logic's algorithm and then edited to beef up the drums and bassline. The project file used for editing the song is contained in this repo.
+The original track was stem split using Logic's algorithm and then edited to beef up the drums and bassline. The project file used for editing the song is contained in this repo. All you need to do is have logic installed on your local machine to run the project file, and make edits as you please.
 
-The final version exported is also contained here, along with another provenance claim by the same ID (me) on the royal protocol using our new Attestation Registration Terminal here: https://royal.io/claim/3651.
+The original AI-generated song is represented onchain with the royal protocol here: https://royal.io/sonic/en/tracks/c29uaWMudHJhY2s6MDE5MjBiNTAtOWQ0Zi03ZjY0LWI4MzgtYTk4YzViOWUyYjY0.
 
 ## 🎧 Tracks and Assets
 
