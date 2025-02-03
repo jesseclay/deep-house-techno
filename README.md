@@ -26,7 +26,7 @@ We welcome contributions! If you have a remix, improvement, or suggestion, feel 
 
 ## 🔧 Setup Instructions
 
-### Direct Download:[HERE](https://github.com/0x3lau/deep-house-techno/archive/refs/heads/main.zip)
+### Direct Download: [HERE](https://github.com/0x3lau/deep-house-techno/archive/refs/heads/main.zip)
 
 ### Cloning and Downloading with Git (Including Large Files) 
 
