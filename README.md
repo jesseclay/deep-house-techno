@@ -20,16 +20,9 @@ This song is open-source under the MIT license. You are free to: • Remix, modi
 
 Please read the full license for further details on usage.
 
-## 🚀 How to Contribute  
+## 🚀 How to Contribute
 
-Want to share your remix? Just add your files to the [remixes](https://github.com/0x3lau/deep-house-techno/tree/main/remixes) folder and submit a pull request!  
-
-### How to Submit:  
-1. **Drop your remix** into the [remixes](https://github.com/0x3lau/deep-house-techno/tree/main/remixes) folder.  
-2. **Make a pull request** with your changes.  
-3. That’s it! 🎶  
-
-We’d love to hear what you create! 🚀  
+We welcome contributions! If you have a remix, improvement, or suggestion, feel free to open a pull request. If you’re using the song in your project, we’d love to hear how you’re using it, so please feel free to share!
 
 ## 🔧 Setup Instructions
 
